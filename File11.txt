@@ -1,2 +1,3 @@
 devops is tech
-courses
+courses 
+we can learn diff tech
